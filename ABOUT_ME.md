@@ -24,7 +24,6 @@ Experienced Solutions Consultant working in the financial sector. Skilled in Pro
  - Department Manager (Inno Capital Microfinance)
  - Head of MIS/IT (MyatKyunThar Microfinance Limited)
  - Technical Consultant (Myanmar Information and Technology Pte)
- - Senior Officer (Microfinance Delta International Limited, MIFIDA)
  - Cloud & Infrastructure Administrator (DynamicWeb APAC)
  - System Engineer (Thai AMADEUS Southeast Asia)
  - Web Developer & System Administrator (Sunfar Travels & Tours Co.,Ltd)
@@ -33,7 +32,9 @@ Experienced Solutions Consultant working in the financial sector. Skilled in Pro
 ## QUALIFICATIONS AND TRAININGS
 - Project Management for Development Professionals (ready.csod)
 - Financial Management for Humanitarian and Development (ready.csod)
+- AWS Certified Solutions Architect - Associate (AWS)
 - AWS Cloud Practitioner (AWS)
+- AZ-500: Microsoft Azure Security Technologies
 - Microsoft Certified Azure Fundamental (Microsoft)
 - Certified Information Systems Security Professional (CISSP)
 - CNSS Certified Network Security Specialist (ICSI)
