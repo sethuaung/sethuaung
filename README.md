@@ -1,6 +1,6 @@
 <h3 align="center">A passionate ERP/CRM consultant from Myanmar</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sethuaung&label=Profile%20views&color=0e75b6&style=flat" alt="sethuaung" /> </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> 
@@ -28,5 +28,7 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethuaung&layout=compact&langs_count=18" alt="sethuaung" />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" /></p>
+</p>
