@@ -14,6 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: sethuaung/badge-readme@main
+        uses: sethuaung/readme@main
         with:       
           CREDLY_USER: se-thu-aung # optional, but default will use the same from github
