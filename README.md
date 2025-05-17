@@ -32,5 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethuaung&layout=compact&langs_count=18" alt="sethuaung" />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" /></p>
 </p>
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+<p>
+START_BADGES:badges
+END_BADGES:badges
+</p>
