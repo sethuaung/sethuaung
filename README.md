@@ -33,8 +33,8 @@
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" /></p>
 </p>
 <p>
-  ---
+
 ## View my verified badges
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+START_SECTION:badges
+END_SECTION:badges
 </p>
