@@ -57,3 +57,10 @@ Experienced Solutions Consultant working in the financial sector. Skilled in Pro
 
 
 [E-MAIL](sethuaung@outlook.com) | [LINKEDIN](https://linkedin.com/n/sethuaung) | [PORTFOLIO WEBPAGE](https://github.com/sethuaung) |
+
+<p>
+
+## View my verified badges
+<!-- START_SECTION:badges -->
+<!-- END_SECTION:badges -->
+</p>
