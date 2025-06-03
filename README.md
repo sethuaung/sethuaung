@@ -31,7 +31,4 @@
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethuaung&layout=compact&langs_count=18" alt="sethuaung" />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" /></p>
-<div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=865200" style='border:none;'></iframe>
-</div>
 </p>
