@@ -56,13 +56,13 @@ Experienced Solutions Consultant working in the financial sector. Skilled in Pro
 - Office 365 teacher academy (Microsoft)
 
 
-[E-MAIL](sethuaung@outlook.com) | [LINKEDIN](https://linkedin.com/n/sethuaung) | [PORTFOLIO WEBPAGE](https://github.com/sethuaung) |
+[E-MAIL](sethuaung@outlook.com) | [LINKEDIN](https://linkedin.com/n/sethuaung) | [PORTFOLIO WEBPAGE](https://github.com/sethuaung) | [CREDLY](https://www.credly.com/users/se-thu-aung/) |
 
 <p>
 
 ## View my verified badges
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=865200" width="100%" height="500" frameborder="0" allowfullscreen loading="lazy"></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/blisqy.png" alt="THM Badge" />
 
 </p>
