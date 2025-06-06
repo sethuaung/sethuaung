@@ -1,59 +1,8 @@
-# [About-Me](https://github.com/sethuaung/)
+# About-Me
 
-Experienced Solutions Consultant working in the financial sector. Skilled in Project Implementation, Unix/Linux Server, Microsoft Windows Server, and Web-Applications Development. Strong business development professional with ERP and CRM Solutions.
+I am an accomplished Solutions Consultant with extensive experience in the financial sector, specializing in robust Linux Server Administration and leveraging cutting-edge Cloud Platforms (Microsoft Azure, AWS, Linode, Digital Ocean). My expertise encompasses comprehensive Technical and Functional Consulting for ERP and CRM Solutions (Microsoft Dynamics 365, Odoo) and end-to-end SQL Server Implementation and Management (MSSQL, MySQL, Postgres). I am adept at developing, implementing, and maintaining system integrity and data security, while also skilled in producing and analyzing financial statements.
 
-
-
-## Education | Professionalism | Hobbies
-
-| MASTERS-OF-SCIENCE Specialized in Physics | Business development professional with ERP, CRM Solutions. | Playing chess – great way to unwind, de-stress, and keep the mind sharp|
-|--|--|--|
-
-## SKILL HIGHLIGHTS
-
- - Linux Server Administration 
- - Developed, produced and analyzed financial statements (Reports). 
- - Technical and Functional Consulting for ERP and CRM Solutions (Microsoft Dynamic 365, Odoo)
- - SQL Server Implementation and management. (MSSQL, MySql, Postgres)
- - Developed, Implement, Maintained system integrity and data security for organization.
- - Cloud Platforms: Microsoft Azure, Amazon Web Service (AWS), Linode and Digital Ocean.
-
-# Experiences & Technical Skills
-
- - MIS/IT Manager (Myanmar Finance International Limited)
- - Department Manager (Inno Capital Microfinance)
- - Head of MIS/IT (MyatKyunThar Microfinance Limited)
- - Technical Consultant (Myanmar Information and Technology Pte)
- - Cloud & Infrastructure Administrator (DynamicWeb APAC)
- - System Engineer (Thai AMADEUS Southeast Asia)
- - Web Developer & System Administrator (Sunfar Travels & Tours Co.,Ltd)
- - Instructor (KMD Computer Centre)
-
-## QUALIFICATIONS AND TRAININGS
-- Project Management for Development Professionals (ready.csod)
-- Financial Management for Humanitarian and Development (ready.csod)
-- AWS Certified Solutions Architect - Associate (AWS)
-- AWS Cloud Practitioner (AWS)
-- AZ-500: Microsoft Azure Security Technologies
-- Microsoft Certified Azure Fundamental (Microsoft)
-- Certified Information Systems Security Professional (CISSP)
-- CNSS Certified Network Security Specialist (ICSI)
-- CSESS Cyber Security Essentials (ICSI)
-- Advanced Google Analytics (Google)
-
-## TRAININGS
-- Google Analytics for Power Users (Google)
-- Google Tag Manager Fundamentals (Google)
-- General Linux Administration (CSI Linux)
-- Vulnerability Management-course (Security Blueteam)
-- Threat Modeling Fundamental (Microsoft)
-- Build community-driven software projects on GitHub (Microsoft)
-- SQL Server on Linux (Microsoft)
-- Prepare to complete the Project Specialist Technical Achievement
-- Complete the Project Specialist Technical Achievement
-- Microsoft Educator academy (Microsoft)
-- MIE Trainer academy (Microsoft)
-- Office 365 teacher academy (Microsoft)
+Holding a Master of Science (Physics), I approach challenges with a strong analytical and problem-solving mindset. As a dedicated Consulting and Business Development professional, I am committed to achieving high availability, delivering top-quality customer support, and driving strategic business growth. My professionalism is defined by operability, commitment, strong resistance to stress, and proven troubleshooting knowledge and skills.
 
 
 [E-MAIL](sethuaung@outlook.com) | [LINKEDIN](https://linkedin.com/n/sethuaung) | [PORTFOLIO WEBPAGE](https://github.com/sethuaung) | [CREDLY](https://www.credly.com/users/se-thu-aung/) |
@@ -63,6 +12,7 @@ Experienced Solutions Consultant working in the financial sector. Skilled in Pro
 ## View my verified badges
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
+<!--
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=865200" style='border:none;'></iframe>
-
+-->
 </p>
