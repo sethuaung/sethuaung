@@ -63,6 +63,6 @@ Experienced Solutions Consultant working in the financial sector. Skilled in Pro
 ## View my verified badges
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=865200" alt="Your Image Badge" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/blisqy.png" alt="Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=865200" style='border:none;'></iframe>
+
 </p>
