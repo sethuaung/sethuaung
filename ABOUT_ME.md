@@ -1,18 +1,40 @@
-# About-Me
 
-I am an accomplished Solutions Consultant with extensive experience in the financial sector, specializing in robust Linux Server Administration and leveraging cutting-edge Cloud Platforms (Microsoft Azure, AWS, Linode, Digital Ocean). My expertise encompasses comprehensive Technical and Functional Consulting for ERP and CRM Solutions (Microsoft Dynamics 365, Odoo) and end-to-end SQL Server Implementation and Management (MSSQL, MySQL, Postgres). I am adept at developing, implementing, and maintaining system integrity and data security, while also skilled in producing and analyzing financial statements.
+## Professional Story: Driving Innovation in Finance
 
-Holding a Master of Science (Physics), I approach challenges with a strong analytical and problem-solving mindset. As a dedicated Consulting and Business Development professional, I am committed to achieving high availability, delivering top-quality customer support, and driving strategic business growth. My professionalism is defined by operability, commitment, strong resistance to stress, and proven troubleshooting knowledge and skills.
+As an experienced **Solutions Consultant**, I specialize in designing and implementing robust systems (D365-CE, CloudNet, MifosX, Kredits) that power financial institutions. My expertise spans the critical intersection of technology and business, ensuring seamless operations, enhanced security, and strategic growth.
 
 
-[E-MAIL](sethuaung@outlook.com) | [LINKEDIN](https://linkedin.com/n/sethuaung) | [PORTFOLIO WEBPAGE](https://github.com/sethuaung) | [CREDLY](https://www.credly.com/users/se-thu-aung/) |
+## Core Competencies
 
-<p>
+**System Design & Development:** Architecting and building resilient tech solutions.
 
-## View my verified badges
-<!-- START_SECTION:badges -->
-<!-- END_SECTION:badges -->
-<!--
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=865200" style='border:none;'></iframe>
--->
-</p>
+**Fintech & Digital Banking:** Transforming financial services through technology.
+
+**Cloud & Server Administration:** Proficient in Unix/Linux, Microsoft Azure, AWS, and more.
+
+**ERP & CRM Solutions:** Technical & Functional mastery of Microsoft Dynamics 365 and Odoo.
+
+**Data & Database Management:** SQL Server (MSSQL, MySQL, Postgres), data analysis, and reporting.
+
+**Digital Forensics & Cybersecurity:** Ensuring system integrity and data security.
+
+**Project Implementation:** Leading successful technology deployments from concept to completion.
+
+## Learning & Certifications
+
+**Project Management:** PMI Citizen Developer™ Business Architect, Project Management for Development Professionals, Financial Management for Humanitarian and Development, Project Management Fundamentals
+
+**Security & IT:** Certified Information Systems Security Professional (CISSP), Red Hat Certified System Administrator (RHCSA), CSESS Cyber Security Essentials, CNSS Certified Network Security Specialist, Cybersecurity Fundamentals, Developing Secure Software, Security for Software Development Managers, XSS Exploits and Defenses, OWASP® Top 10 Security Threats
+
+**Cloud:** AWS Cloud Practitioner (AWS), Microsoft Certified Azure Fundamental (Microsoft), IBM Cloud Essentials
+
+**API:** API Enterprise Admin, API Prototyping, API Testing (Postman),  API Product Management, API Security, API Security for PCI Compliance, API Penetration Testing, Securing LLM and NLP APIs (APISEC University)
+
+**Other Digital Learnings:** Executive Diploma in Business Management/Strategic Management/Engineering Management, Professional Diploma in Digital Business Development/Product Owner/Agile Product Management/Agile and Scrum, ITIL® 4 Foundation, Vulnerability Management(Blueteam), Advanced Google Analytics
+
+## Contact & Branding
+
+-   **Location:** Yangon MM
+-   **LinkedIn:** [linkedin.com/in/sethuaung](https://linkedin.com/in/sethuaung)
+-   **Credly Profile:** [Certification badges available via Credly](https://www.credly.com/users/se-thu-aung/)
+-  **TryHackMe Profile:**  [Badges](https://tryhackme-badges.s3.amazonaws.com/blisqy.png), [Profile](https://tryhackme.com/p/blisqy)
