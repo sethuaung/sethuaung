@@ -14,7 +14,7 @@ As an experienced **Solutions Consultant**, I specialize in designing and implem
 
 **ERP & CRM Solutions:** Technical & Functional mastery of Microsoft Dynamics 365 and Odoo.
 
-**Data & Database Management:** SQL Server (MSSQL, MySQL, Postgres), data analysis, and reporting.
+**Data & Database Management:** SQL Server (MSSQL, MySQL, Postgres, Mongodb), data analysis, and reporting.
 
 **Digital Forensics & Cybersecurity:** Ensuring system integrity and data security.
 
@@ -22,19 +22,19 @@ As an experienced **Solutions Consultant**, I specialize in designing and implem
 
 ## Learning & Certifications
 
-**Project Management:** PMI Citizen Developer™ Business Architect, Project Management for Development Professionals, Financial Management for Humanitarian and Development, Project Management Fundamentals
+**Project/Business Management:** PMI Citizen Developer™ Business Architect, Project Management for Development Professionals, Financial Management for Humanitarian and Development, Project Management, Agile Essentials (IBM, Google), Google Promptiong Essentials
 
-**Security & IT:** Certified Information Systems Security Professional (CISSP), Red Hat Certified System Administrator (RHCSA), CSESS Cyber Security Essentials, CNSS Certified Network Security Specialist, Cybersecurity Fundamentals, Developing Secure Software, Security for Software Development Managers, XSS Exploits and Defenses, OWASP® Top 10 Security Threats
+**Security & IT:** Certified Information Systems Security Professional (CISSP), Red Hat Certified System Administrator (RHCSA), CSESS Cyber Security Essentials, CNSS Certified Network Security Specialist, Ethical Hacker, Cyber Threat Management, Developing Secure Software, Security for Software Development Managers, XSS Exploits and Defenses, OWASP® Top 10 Security Threats, Data Science(Python), IBM Blockchain Foundation Developer
 
-**Cloud:** AWS Cloud Practitioner (AWS), Microsoft Certified Azure Fundamental (Microsoft), IBM Cloud Essentials
+**Cloud:** AWS Cloud Practitioner (AWS), Microsoft Certified Azure Fundamental, IBM Cloud
 
 **API:** API Enterprise Admin, API Prototyping, API Testing (Postman),  API Product Management, API Security, API Security for PCI Compliance, API Penetration Testing, Securing LLM and NLP APIs (APISEC University)
 
-**Other Digital Learnings:** Executive Diploma in Business Management/Strategic Management/Engineering Management, Professional Diploma in Digital Business Development/Product Owner/Agile Product Management/Agile and Scrum, ITIL® 4 Foundation, Vulnerability Management(Blueteam), Advanced Google Analytics
+**Other ** Executive Diploma in Business Management/Strategic Management/Engineering Management, Professional Diploma in Digital Business Development/Product Owner/Agile Product Management/Agile and Scrum, ITIL® 4 Foundation, Vulnerability Management(Blueteam), Advanced Google Analytics, ISO/IEC 27001:2022 Lead Auditor
 
 ## Contact & Branding
 
 -   **Location:** Yangon MM
--   **LinkedIn:** [linkedin.com/in/sethuaung](https://linkedin.com/in/sethuaung)
+-   **LinkedIn:** [https://linkedin.com/in/sethuaung](https://linkedin.com/in/sethuaung)
 -   **Credly Profile:** [Certification badges available via Credly](https://www.credly.com/users/se-thu-aung/)
 -  **TryHackMe Profile:**  [Badges](https://tryhackme-badges.s3.amazonaws.com/blisqy.png), [Profile](https://tryhackme.com/p/blisqy)
