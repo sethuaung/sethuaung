@@ -9,8 +9,9 @@
   <a href="https://wakatime.com/@8aafa83e-0710-4271-a467-4ca20bf312ed">
   </a>
 </div>
-<h1 align="center">Hi 👋🏼, :man_technologist: A passionate ERP/CRM consultant from Myanmar 😃</h1>
-You need to seek a satisfying pick him up to chance of her neck what are you up multiple knowledgeable<p align="center"> <img src="https://komarev.com/ghpvc/?username=sethuaung&label=Profile%20views&color=0e75b6&style=flat" alt="sethuaung" /> </p>
+<h1 align="center">Hi 👋🏼 , I'm James it's Yaya 😃, :man_technologist: A passionate ERP/CRM consultant from Myanmar 😃 <br>
+You need to seek a satisfying pick him up to chance of her neck what are you up multiple knowledgeable </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sethuaung&label=Profile%20views&color=0e75b6&style=flat" alt="sethuaung" /> </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
