@@ -1,4 +1,4 @@
-<h3 align="center">A passionate ERP/CRM consultant from Myanmar</h3>
+<h3 align="center"> :man_technologist: A passionate ERP/CRM consultant from Myanmar</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sethuaung&label=Profile%20views&color=0e75b6&style=flat" alt="sethuaung" /> </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
