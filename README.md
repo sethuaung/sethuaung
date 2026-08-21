@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sethuaung/">
-      LinkedIn
+    <a href="ABOUT_ME.md">
+      About-Me
     </a>
   </div>
   <a href="https://wakatime.com/@8aafa83e-0710-4271-a467-4ca20bf312ed">
