@@ -43,5 +43,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethuaung&layout=compact&langs_count=18" alt="sethuaung" />
+[![James's GitHub stats](https://github-stats-extended.vercel.app/api?username=sethuaung)](https://github.com/stats-organization/github-stats-extended)  
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" /></p>
 </p>
