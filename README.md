@@ -43,6 +43,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <p align="center">
 <p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sethuaung&layout=compact&langs_count=18" alt="sethuaung" /> </p> 
-<! <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" /> -->
+ // <img align="left" src="https://github-profile-trophy.vercel.app/?username=sethuaung" alt="sethuaung" />
 <p><img align="left" src="https://github-stats-extended.vercel.app/api/?username=sethuaung&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=James's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="sethuaung" /> 
 </p>
